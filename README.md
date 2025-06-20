@@ -7,7 +7,7 @@
 
 ---
 
-![CareerHub Pro Preview](./public/screenshots/careerhub-dashboard.png)
+![Hosted on Lovable](https://img.shields.io/badge/Live%20Demo-Lovable-7C3AED?style=for-the-badge&logo=vercel)](https://preview--careerhub-ui-showcase.lovable.app/)
 
 
 ---
