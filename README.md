@@ -7,8 +7,9 @@
 
 ---
 
-![Hosted on Lovable](https://img.shields.io/badge/Live%20Demo-Lovable-7C3AED?style=for-the-badge&logo=vercel)](https://preview--careerhub-ui-showcase.lovable.app/)
+![CareerHub Pro Preview](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=600&fit=crop)
 
+---
 
 ---
 
